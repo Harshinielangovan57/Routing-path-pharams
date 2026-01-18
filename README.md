@@ -1,5 +1,5 @@
 **Routing :**
-** Browser Routing**
+**Browser Routing**
         Browser Routing uses the HTML5 History API (pushState, replaceState) to manage routes.
 Example URL:
 https://example.com/profile
